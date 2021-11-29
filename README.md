@@ -1,5 +1,5 @@
 # MARS
-This repository contains a implementation of our "Multi-Facet Recommender Networks with Spherical Optimization".
+This repository contains a implementation of our "Multi-Facet Recommender Networks with Spherical Optimization" accepted by ICDE 2021.
 
 ## Contact
 
@@ -40,3 +40,14 @@ Data input and model evaluation
 ```
 python main.py --dataset ciao --numEpoch 100 --lRate 0.01
 ```
+
+
+Please cite:
+@inproceedings{tan2021multi,
+  title={Multi-Facet Recommender Networks with Spherical Optimization},
+  author={Tan, Yanchao and Yang, Carl and Wei, Xiangyu and Ma, Yun and Zheng, Xiaolin},
+  booktitle={2021 IEEE 37th International Conference on Data Engineering (ICDE)},
+  pages={1524--1535},
+  year={2021},
+  organization={IEEE}
+}
