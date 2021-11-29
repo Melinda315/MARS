@@ -41,8 +41,9 @@ Data input and model evaluation
 python main.py --dataset ciao --numEpoch 100 --lRate 0.01
 ```
 
-
-Please cite:
+### Citation
+If you find the software useful, please consider citing the following paper:
+```
 @inproceedings{tan2021multi,
   title={Multi-Facet Recommender Networks with Spherical Optimization},
   author={Tan, Yanchao and Yang, Carl and Wei, Xiangyu and Ma, Yun and Zheng, Xiaolin},
@@ -51,3 +52,4 @@ Please cite:
   year={2021},
   organization={IEEE}
 }
+```
