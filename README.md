@@ -42,7 +42,7 @@ python main.py --dataset ciao --numEpoch 100 --lRate 0.01
 ```
 
 ### Citation
-If you find the software useful, please consider citing the following paper:
+If you find the code useful, please consider citing the following paper:
 ```
 @inproceedings{tan2021multi,
   title={Multi-Facet Recommender Networks with Spherical Optimization},
